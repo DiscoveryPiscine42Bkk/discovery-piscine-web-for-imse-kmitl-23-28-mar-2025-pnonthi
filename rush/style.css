@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #333;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    z-index: 1000; 
+}
+
+.content {
+    margin-top: 60px; 
+    padding: 20px;
+    height: 2000px; 
+}
